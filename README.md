@@ -1,5 +1,5 @@
 # DA_Project
 
--------Polytecnic School fo Thies-------
+-------Polytecnic School of Thies-------
 
 Data Analysis Project 
